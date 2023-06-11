@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "x6nvsr9guTeOfvI/iHjdq7DJM1sw1xq7f50xP+d6IBw=",
-  "Source": "geodisplacement",
-  "BasePath": "_content/geodisplacement",
+  "Hash": "uOLlGnsAqcOZdFKrSFHCJYQon86JBNE6nYl9IAIAtB0=",
+  "Source": "geoDistance",
+  "BasePath": "_content/geoDistance",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
