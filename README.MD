@@ -95,7 +95,6 @@ Here's an example of how to use the `/distanceBetween` endpoint with a `curl` co
 ```bash
 curl --location 'https://localhost:5100/distanceBetween' \
 --header 'Content-Type: application/json' \
---header 'Cookie: ARRAffinity=227011b2e2632fdca027bd8016fbc746e32106ec420672f296549087fbefe89f; ARRAffinitySameSite=227011b2e2632fdca027bd8016fbc746e32106ec420672f296549087fbefe89f' \
 --data '{
     "StartPoint": {
         "Latitude": 0,
