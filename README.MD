@@ -1,7 +1,3 @@
-Sure, I can help you write a description in the style of a GitHub README.md file. Here's an example:
-
----
-
 # GeoDisplacement Service
 
 This repository contains the GeoDisplacement Service, a .NET-based web application designed for geographic calculations. It provides utilities for calculating distances between geographical points and finding the farthest point from a given point among a set of points.
