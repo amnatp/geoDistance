@@ -88,7 +88,7 @@ The PlaceAndItsNeighbor class, also part of the geodisplacement.Models.Dto names
 StartPoint: A Place object representing the initial location.
 Points: A list of Place objects representing the neighboring locations.
 
-# Sample curl usange
+# Sample curl call
 curl --location 'https://localhost:5100/distanceBetween' \
 --header 'Content-Type: application/json' \
 --header 'Cookie: ARRAffinity=227011b2e2632fdca027bd8016fbc746e32106ec420672f296549087fbefe89f; ARRAffinitySameSite=227011b2e2632fdca027bd8016fbc746e32106ec420672f296549087fbefe89f' \
