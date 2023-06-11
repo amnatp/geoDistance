@@ -66,4 +66,22 @@ To use the service, send a HTTP POST request to either `/distanceBetween` or `/f
 ---
 
 Please note that you might need to adjust the examples based on the actual data structure of the `Place` and `PlacePair` objects in your application.
+#Classes in projects
+##Place
+The Place class represents a specific geographical location. It includes the following properties:
 
+Name (Optional): The name of the place.
+PostalCode (Optional): The postal code of the place.
+Latitude: The latitude of the place, a measure that specifies the north-south position of a point on the Earth's surface.
+Longitude: The longitude of the place, a measure that specifies the east-west position of a point on the Earth's surface.
+
+##PlacePair
+The PlacePair class, part of the geodisplacement.Models.Dto namespace, encapsulates a pair of geographical locations. It's generally used when we want to determine the distance between two specific locations. It includes the following properties:
+StartPoint: A Place object representing the starting location.
+EndPoint: A Place object representing the ending location.
+
+##PlaceAndItsNeighbor
+The PlaceAndItsNeighbor class, also part of the geodisplacement.Models.Dto namespace, represents a geographical location and a set of neighboring locations. This class is typically used when we want to perform operations that involve a location and its neighbors, such as finding the farthest location from a starting point. It includes the following properties:
+
+StartPoint: A Place object representing the initial location.
+Points: A list of Place objects representing the neighboring locations.
