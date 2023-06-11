@@ -66,7 +66,9 @@ To use the service, send a HTTP POST request to either `/distanceBetween` or `/f
 ---
 
 Please note that you might need to adjust the examples based on the actual data structure of the `Place` and `PlacePair` objects in your application.
+
 #Classes in projects
+
 ##Place
 The Place class represents a specific geographical location. It includes the following properties:
 
