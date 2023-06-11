@@ -105,4 +105,5 @@ curl --location 'https://localhost:5100/distanceBetween' \
         "Longtitude": 100.523186
     }
 }'
-
+## in action
+[[https://github.com/wervlad](https://geo-distance.azurewebsites.net/swagger/index.html)](https://geo-distance.azurewebsites.net/swagger/index.html)
