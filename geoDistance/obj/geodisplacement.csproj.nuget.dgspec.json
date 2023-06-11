@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\geodisplacement\\geodisplacement.csproj": {}
+    "C:\\dev\\geoDistance\\geoDistance\\geodisplacement.csproj": {}
   },
   "projects": {
-    "C:\\dev\\geodisplacement\\geodisplacement.csproj": {
+    "C:\\dev\\geoDistance\\geoDistance\\geodisplacement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\geodisplacement\\geodisplacement.csproj",
+        "projectUniqueName": "C:\\dev\\geoDistance\\geoDistance\\geodisplacement.csproj",
         "projectName": "geodisplacement",
-        "projectPath": "C:\\dev\\geodisplacement\\geodisplacement.csproj",
+        "projectPath": "C:\\dev\\geoDistance\\geoDistance\\geodisplacement.csproj",
         "packagesPath": "C:\\Users\\amnat.pu\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\geodisplacement\\obj\\",
+        "outputPath": "C:\\dev\\geoDistance\\geoDistance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
