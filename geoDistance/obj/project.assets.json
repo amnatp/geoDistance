@@ -466,9 +466,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\geoDistance\\geoDistance\\geodisplacement.csproj",
-      "projectName": "geodisplacement",
-      "projectPath": "C:\\dev\\geoDistance\\geoDistance\\geodisplacement.csproj",
+      "projectUniqueName": "C:\\dev\\geoDistance\\geoDistance\\geoDistance.csproj",
+      "projectName": "geoDistance",
+      "projectPath": "C:\\dev\\geoDistance\\geoDistance\\geoDistance.csproj",
       "packagesPath": "C:\\Users\\amnat.pu\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\geoDistance\\geoDistance\\obj\\",
       "projectStyle": "PackageReference",
